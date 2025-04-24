@@ -14,5 +14,3 @@ To get started, clone the repository:
 ```
 git clone https://github.com/m-pristi/Array-Stats-Toolkit.git
 ```
-# License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/m-pristi/Array-Stats-Toolkit/blob/main/LICENSE) file for details.
