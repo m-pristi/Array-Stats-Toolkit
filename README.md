@@ -1,16 +1,28 @@
-# Array Stats Toolkit
+# 🎯 Array Stats Toolkit
 
-This project is a Python toolkit for analyzing arrays. It includes functions for calculating statistics of arrays and processing their elements.
+_A lightweight and efficient toolkit for statistical operations on arrays and matrices._
 
-## Features
-- Calculate the root mean square (RMS) of array subsets.
-- Find elements closest to a given number.
-- Filter even numbers and sort them by descending absolute value.
+---
 
-## Installation
+## 💡 About the Project
 
-To get started, clone the repository:
+Array Stats Toolkit provides a set of functions to perform basic statistical operations on arrays and matrices. The toolkit is designed to be simple to use and efficient, making it ideal for those who need quick statistical calculations on their data.
 
-```
-git clone https://github.com/m-pristi/Array-Stats-Toolkit.git
-```
+---
+
+## ⚙️ Functionality
+
+This toolkit allows you to perform the following operations:
+
+- **Mean Calculation**: Calculates the average of the values in an array or matrix.
+- **Median Calculation**: Finds the middle value when the data is sorted.
+- **Standard Deviation**: Measures the spread or variability of the data points.
+- **Variance**: Computes how much the values in the dataset deviate from the mean.
+
+These functions are designed to be fast and easy to use for anyone working with numerical data.
+
+---
+
+## 👩‍💻 Author
+
+Created by @m-pristi – coding with passion and coffee.
