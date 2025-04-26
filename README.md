@@ -23,6 +23,6 @@ These functions are designed to be fast and easy to use for anyone working with 
 
 ---
 
-## 👩‍💻 Author
+## 💅 Author
 
 Created by @m-pristi – coding with passion and coffee.
